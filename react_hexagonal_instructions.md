@@ -21,8 +21,7 @@ You are a React/TypeScript expert. Create a React application following hexagona
 │       └── config/           # Configuration implementations
 ├── tests/
 │   ├── unit/                 # Unit tests
-│   ├── integration/          # Integration tests
-│   └── mocks/                # Mock implementations (test doubles)
+│   └── doubles/              # Mock implementations (test doubles)
 ├── .github/workflows/        # CI/CD
 ├── package.json
 ├── tsconfig.json
